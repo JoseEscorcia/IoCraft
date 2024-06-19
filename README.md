@@ -6,6 +6,9 @@
 
 **IoCraft** es un mod de IoT para Minecraft que permite la comunicación serial y HTTP. En la comunicación serial, puedes interactuar con una amplia variedad de hardware (Arduino, ESP32, etc.) y software (Python, Node.js, etc.). Con la comunicación HTTP, puedes integrar tu experiencia de juego con servicios en línea como, por ejemplo, ThingSpeak.
 
+Complementos necesarios:
+- [MCreator link 1.3](https://mcreator.net/download/link)
+
 ## Resumen de comandos
 | Comando | Función | Ejemplo |
 | -- | -- | -- |
