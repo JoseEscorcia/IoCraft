@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/assets/images/iocraft_title.png" width="300px"/>  
+    <img src="images/iocraft_title.png" width="300px"/>  
 </div>
 
 <br>
@@ -21,7 +21,7 @@
 
 ### Bloque "Serial Tx":
 Con este bloque podrás enviar mensajes seriales.<br>
-<img src="/assets/images/Serial Tx.png" width="50px"/>  
+<img src="images/Serial Tx.png" width="50px"/>  
 
 <br>
 
@@ -29,12 +29,12 @@ Receta:
 - x6 Bloque de hierro
 - x1 Diamante
 <br>
-<img src="/assets/images/craftTx.PNG" width="100px"/> 
+<img src="/images/craftTx.PNG" width="100px"/> 
 
 <br>
 
 Interfaz:<br>
-<img src="/assets/images/interTx.PNG" width="300px"/> 
+<img src="images/interTx.PNG" width="300px"/> 
 
 | Opción | Explicación |
 |-----|-----------|
@@ -49,7 +49,7 @@ Interfaz:<br>
 
 ### Bloque "Serial Rx":
 Con este bloque podrás recibir mensajes seriales. Si el valor recibido cumple con la condición de comparación entonces el bloque emitirá una señal de redstone.<br>
-<img src="/assets/images/Serial Rx.png" width="50px"/>  
+<img src="images/Serial Rx.png" width="50px"/>  
 
 <br>
 
@@ -58,12 +58,12 @@ Receta:
 - x4 Bloque de hierro
 - x1 Diamante
 <br>
-<img src="/assets/images/craftRx.PNG" width="100px"/> 
+<img src="images/craftRx.PNG" width="100px"/> 
 
 <br>
 
 Interfaz:<br>
-<img src="/assets/images/interRx.PNG" width="300px"/> 
+<img src="images/interRx.PNG" width="300px"/> 
 
 | Opción | Explicación |
 |-----|-----------|
@@ -92,7 +92,7 @@ Modos de comparación:
 
 ### Bloque "HTTP POST":
 Con este bloque podrás enviar un mensaje mediante el método POST de HTTP cuando reciba o deje de recibir señal redstone.<br>
-<img src="/assets/images/HTTP post.png" width="50px"/>  
+<img src="/images/HTTP post.png" width="50px"/>  
 
 <br>
 
@@ -102,12 +102,12 @@ Receta:
 - x2 Lana roja
 - x1 Perla de ender
 <br>
-<img src="/assets/images/craftPOST.PNG" width="100px"/> 
+<img src="images/craftPOST.PNG" width="100px"/> 
 
 <br>
 
 Interfaz:<br>
-<img src="/assets/images/interHTTPpost.PNG" width="300px"/> 
+<img src="images/interHTTPpost.PNG" width="300px"/> 
 
 | Opción | Explicación |
 |-----|-----------|
@@ -119,7 +119,7 @@ Interfaz:<br>
 
 ### Motobomba/Electrobomba:
 Este bloque arrojará agua al recibir una señal de redstone.<br>
-<img src="/assets/images/Motobomba.png" width="50px"/> 
+<img src="images/Motobomba.png" width="50px"/> 
 
 <br>
 
@@ -128,15 +128,15 @@ Receta:
 - x2 Escotilla de roble oscuro
 - x1 Palanca
 <br>
-<img src="/assets/images/craftMotobomba.PNG" width="100px"/> 
+<img src="images/craftMotobomba.PNG" width="100px"/> 
 
 <br>
 
 
 ### Bloque "Detector de humedad":
 Con este bloque podrás leer la humedad del bloque de tierra que se encuentre encima de este y cuando reciba una señal redstone enviará de forma serial el valor de humedad y la coordenada del bloque de tierra.<br>
-<img src="/assets/images/Detector humedad.png" width="50px"/>  
-<img src="/assets/images/usoSensorHumedad.png" width="50px"/>  
+<img src="images/Detector humedad.png" width="50px"/>  
+<img src="images/usoSensorHumedad.png" width="50px"/>  
 
 
 <br>
@@ -146,13 +146,13 @@ Receta:
 - x4 Barrote de hierro
 - x1 Tinte celeste
 <br>
-<img src="/assets/images/craftDetectorHumedad.PNG" width="100px"/> 
+<img src="images/craftDetectorHumedad.PNG" width="100px"/> 
 
 <br>
 
 
 Interfaz:<br>
-<img src="/assets/images/interdHumedad.PNG" width="300px"/> 
+<img src="images/interdHumedad.PNG" width="300px"/> 
 
 | Valor | Explicación |
 |-----|-----------|
@@ -164,7 +164,7 @@ Interfaz:<br>
 
 ### Bloque "ThingSpeak Humedad":
 Con este bloque podrás leer la humedad del bloque de tierra que se encuentre encima de este y enviará dicho valor al canal de ThingSpeak especificado.<br>
-<img src="/assets/images/ThingSpeak humedad.png" width="50px"/>  
+<img src="images/ThingSpeak humedad.png" width="50px"/>  
 
 
 <br>
@@ -174,16 +174,16 @@ Receta:
 - x4 Barrote de hierro
 - x1 Perla de ender
 <br>
-<img src="/assets/images/craftHumedadThingspeak.PNG" width="100px"/> 
+<img src="images/craftHumedadThingspeak.PNG" width="100px"/> 
 
 <br>
 
 
 
 Interfaz:<br>
-<img src="/assets/images/interdHumedadThingspeak.PNG" width="300px"/>
+<img src="images/interdHumedadThingspeak.PNG" width="300px"/>
 <br><br>
-<img src="/assets/images/graficaThingspeak.PNG" width="200px"/>
+<img src="images/graficaThingspeak.PNG" width="200px"/>
 <br>
 *[Grafica solo como referencia]*
 
